@@ -1,0 +1,41 @@
+crop,fertilizer,quantity
+rice,Urea + DAP,120 kg/acre
+wheat,Urea + Potash,100 kg/acre
+maize,NPK (20:20:0),90 kg/acre
+jute,Urea,80 kg/acre
+barley,Urea + DAP,80 kg/acre
+cotton,NPK (20:20:0),90 kg/acre
+soybean,DAP + Potash,70 kg/acre
+gram,Single Super Phosphate,60 kg/acre
+sunflower,NPK (15:15:15),80 kg/acre
+groundnut,Calcium Ammonium Nitrate,80 kg/acre
+pulses,Organic Compost,50 kg/acre
+millets,Organic Compost,50 kg/acre
+sorghum,Urea + DAP,90 kg/acre
+cashew,Organic Manure + NPK,150 kg/tree/year
+rubber,Organic Manure + Potash,200 kg/acre
+coffee,NPK + Organic Manure,120 kg/acre
+tea,Nitrogen Rich Fertilizer,120 kg/acre
+bajra,Urea,60 kg/acre
+watermelon,Organic Compost + NPK,70 kg/acre
+cumin,Phosphorus Rich Fertilizer,50 kg/acre
+sugarcane,NPK (10:26:26),200 kg/acre
+banana,Urea + Potash,180 kg/acre
+mustard,Ammonium Phosphate,70 kg/acre
+vegetables,Organic Compost,100 kg/acre
+paddy,Urea + DAP,130 kg/acre
+turmeric,Organic Manure + Potash,120 kg/acre
+peas,Organic Compost,40 kg/acre
+onion,NPK (10:20:20),90 kg/acre
+watermelon,Organic Compost + NPK,70 kg/acre
+melon,Organic Compost + NPK,70 kg/acre
+cucumber,Organic Compost + Urea,60 kg/acre
+summer_maize,NPK (20:20:0),90 kg/acre
+groundnut,Calcium Ammonium Nitrate,80 kg/acre
+sunflower,NPK (15:15:15),80 kg/acre
+okra,Urea + Potash,90 kg/acre
+vegetables,Organic Compost,100 kg/acre
+coconut,Organic Manure + Potash,200 kg/tree/year
+pineapple,NPK (12:12:12),100 kg/acre
+banana,Urea + Potash,180 kg/acre
+rice_zaid,Urea + DAP,130 kg/acre
